@@ -4,6 +4,9 @@
  author: Pankaj Agham
  description: It is video player.
  technplogies used: html,css,JS.
+ 
+ to see this video player go to this url:
+ https://pankaj142.github.io/Web-Video-Player/player.htm
 
 
  Thank you!

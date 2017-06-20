@@ -1,7 +1,6 @@
 
  Info:
 
- author: Pankaj Agham
  description: It is video player.
  technplogies used: html,css,JS.
  
